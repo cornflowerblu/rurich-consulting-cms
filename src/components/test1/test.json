@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_test1_tests",
+  "info": {
+    "displayName": "test"
+  },
+  "options": {},
+  "attributes": {
+    "Descript": {
+      "type": "richtext"
+    },
+    "Title": {
+      "type": "string"
+    }
+  }
+}

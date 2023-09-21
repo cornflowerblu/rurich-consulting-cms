@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tests",
+  "info": {
+    "singularName": "test",
+    "pluralName": "tests",
+    "displayName": "test"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "test": {
+      "type": "dynamiczone",
+      "components": [
+        "test1.test"
+      ]
+    },
+    "uuid": {
+      "type": "uid"
+    },
+    "JSON": {
+      "type": "json"
+    }
+  }
+}
